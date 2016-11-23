@@ -1,6 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
+import SearchBar from './components/search_bar'
+
 const API_KEY = 'AIzaSyCS9XWzgowdxiWXbiuITvg5xWo7BM6C6bI'
 
 // create a new component
